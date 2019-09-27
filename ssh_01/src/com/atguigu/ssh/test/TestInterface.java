@@ -7,5 +7,9 @@ public interface TestInterface {
 	void m2();
 	void m3();
 	void m4();
+
 	void m6();
+
+	void m5();
+
 }
