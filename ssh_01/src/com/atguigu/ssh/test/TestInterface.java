@@ -14,4 +14,5 @@ public interface TestInterface {
 	void m7();
 
 	void m8();
+	void m9();
 }
